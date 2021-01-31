@@ -770,6 +770,22 @@ a {
     width: 100%;
   }
 }
+.cid-snx1J8gjzb .imagecld {
+  position: absolute;
+  top: 0px;
+  right: 427px;
+  z-index: 1;
+}
+@media (max-width: 1000px) {
+  .cid-snx1J8gjzb .imagecld {
+    display: none;
+  }
+}
+@media (max-width: 1700px) {
+  .cid-snx1J8gjzb .imagecld {
+    right: 139px !important;
+  }
+}
 .cid-snx3AiKb8Q {
   padding-top: 1rem;
   padding-bottom: 0rem;
